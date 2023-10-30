@@ -6,7 +6,7 @@ let garden =  [
         "category": "flower"
 },
 {
-    "name":"bittergurd",
+    "name":"bittergourd",
     "colour": "green" ,
     "category": "vegetable" 
 },
@@ -36,7 +36,7 @@ const resume =[{
     "DOB" : "My DOB is 15/03/1993",
     "email": "and My Email karthiga350@gmail.com",
     "githublink" : " This is my github link https://github.com/Karthika163?tab=repositories",
-    "workingExperiance": " And i was worked in non it field four years ansd also i i won an award of best performer",
+    "workingExperiance": " And i was worked in non IT field four years ansd also i won an award of best performer",
     "education": {
         "sslc": "80%",
         "hss": "78%",
